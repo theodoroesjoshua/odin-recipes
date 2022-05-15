@@ -57,22 +57,20 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Open index.html to go to the homepage of the website. You can then click on the names of the recipes to go to the corresponding recipes pages.
 
 ### Prerequisites
 
 Have a web browser
 
 ### Installation
--
-
+Please follow the installation guide of the web browser of your choice!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+You can use this to save some of your favorite recipes, so that you can check on it anytime you want to!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
