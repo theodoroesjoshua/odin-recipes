@@ -64,7 +64,6 @@ Open index.html to go to the homepage of the website. You can then click on the 
 Have a web browser
 
 ### Installation
--
 Please follow the installation guide of the web browser of your choice!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
