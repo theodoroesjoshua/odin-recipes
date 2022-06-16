@@ -9,8 +9,7 @@
 
 <h3 align="center">Odin-Recipes</h3>
 
-  <p align="center">
-    A small html project to apply all the things about html, that i have learned from the odin project so far.
+  <p align="center">    
     <br />
     <a href="https://github.com/theodoroesjoshua/odin-recipes"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,7 +51,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+A small html project to apply all the things about html, that i have learned from the odin project so far.
+### Built With
+HTML
 
 <!-- GETTING STARTED -->
 ## Getting Started
