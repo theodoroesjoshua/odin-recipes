@@ -51,7 +51,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A small html project to apply all the things about html, that i have learned from the odin project so far.
+A small html project to apply all the things about html, that i have learned from the odin project so far. A simple website that stores some recipes.
 ### Built With
 HTML
 
